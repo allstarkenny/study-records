@@ -1,1 +1,1 @@
-# study_record
+# study-records
